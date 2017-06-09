@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+import 'jquery';
+import 'fullpage.js'; // Import fullpage.js
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
